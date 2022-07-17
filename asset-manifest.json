@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tabs-react-use-effect-practise/static/css/main.fd50c553.chunk.css",
+    "main.js": "/tabs-react-use-effect-practise/static/js/main.b78044ca.chunk.js",
+    "main.js.map": "/tabs-react-use-effect-practise/static/js/main.b78044ca.chunk.js.map",
+    "runtime-main.js": "/tabs-react-use-effect-practise/static/js/runtime-main.443ab5c7.js",
+    "runtime-main.js.map": "/tabs-react-use-effect-practise/static/js/runtime-main.443ab5c7.js.map",
+    "static/js/2.4810a2d4.chunk.js": "/tabs-react-use-effect-practise/static/js/2.4810a2d4.chunk.js",
+    "static/js/2.4810a2d4.chunk.js.map": "/tabs-react-use-effect-practise/static/js/2.4810a2d4.chunk.js.map",
+    "index.html": "/tabs-react-use-effect-practise/index.html",
+    "precache-manifest.2da4978744a1c5fea919df7fcb0eea0e.js": "/tabs-react-use-effect-practise/precache-manifest.2da4978744a1c5fea919df7fcb0eea0e.js",
+    "service-worker.js": "/tabs-react-use-effect-practise/service-worker.js",
+    "static/css/main.fd50c553.chunk.css.map": "/tabs-react-use-effect-practise/static/css/main.fd50c553.chunk.css.map",
+    "static/js/2.4810a2d4.chunk.js.LICENSE.txt": "/tabs-react-use-effect-practise/static/js/2.4810a2d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.443ab5c7.js",
+    "static/js/2.4810a2d4.chunk.js",
+    "static/css/main.fd50c553.chunk.css",
+    "static/js/main.b78044ca.chunk.js"
+  ]
+}
