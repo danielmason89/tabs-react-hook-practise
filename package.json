@@ -1,7 +1,7 @@
 {
   "name": "reminder",
   "version": "0.1.0",
-  "homepage": "https://danielmason89.github.io/tabs-react-use-effect-practise/",
+  "homepage": "https://danielmason89.github.io/tabs-react-hook-practise/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
